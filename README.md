@@ -14,12 +14,16 @@ You'll need a few things to get the program running.
 1. Python 3.x
 2. The yt-dlp python package.
    
-    `pip install yt-dlp`
-3. FFmpeg (Recommended): `yt-dlp` may require `ffmpeg` in your system's PATH to merge video and audio.
+    ```
+   pip install yt-dlp
+    ```
+4. FFmpeg (Recommended): `yt-dlp` may require `ffmpeg` in your system's PATH to merge video and audio.
 
 Once everything is set up, fire up the main interface with a simple command:
 
-`python gui.py`
+```
+python gui.py
+```
 
 Paste your YouTube URL, click 'Find Video' to see your options, pick one, and press 'Download Format'. The rest is automated, and will be stored in an output folder.
 # Disclaimer
