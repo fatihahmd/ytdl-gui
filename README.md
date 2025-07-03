@@ -3,13 +3,10 @@
 Like the name says: it’s a Python GUI for yt-dlp, developed in one lunch break. Initially this was made to avoid annoying ads in your generic web-based yt-dl wrapper, and cause I was bored as hell.
 # Core Functionality
 
-    Graphical User Interface: This project was built with Tkinter, with absolutely zero regards for aesthetics.
-
-    Dynamic Format Selection: ytdl-gui polls yt-dlp to show you a list of resolutions and file sizes.
-
-    Visual Download Progress: A progress bar that lets you know it’s downloading.
-
-    Legacy CLI Mode: For the purists, we've kept the original cli.py. Think of it as the Mark I armor—a bit clunky, but it laid the groundwork for greatness.
+- Graphical User Interface: This project was built with Tkinter, with absolutely zero regards for aesthetics.
+- Dynamic Format Selection: ytdl-gui polls yt-dlp to show you a list of resolutions and file sizes.
+- Visual Download Progress: A progress bar that lets you know it’s downloading.
+- Legacy CLI Mode: For the purists, we've kept the original cli.py. Think of it as the Mark I armor—a bit clunky, but it laid the groundwork for greatness.
 
 # Getting Started
 
